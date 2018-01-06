@@ -9,4 +9,4 @@ Church
 
 Multiuse building
 Google Home Application Architecture with Webhooks
-![Alt text](Images/Multiuse.PNG?raw=true "Multiuse Building")
+![Alt text](Images/Multiuse.png?raw=true "Multiuse Building")
