@@ -1,8 +1,8 @@
 # Blender_Models
 - Practice models created in blender with goal to learn 3D modeling and animation
 
-## Skyscrapper
-![Alt text](Images/Skyscrapper.png?raw=true "Skyscrapper")
+## Skyscraper
+![Alt text](Images/Skyscraper.png?raw=true "Skyscraper")
 
 ## Multiuse building
 ![Alt text](Images/Multiuse.png?raw=true "Multiuse Building")
